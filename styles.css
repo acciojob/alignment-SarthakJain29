@@ -2,6 +2,11 @@
 	border:1px solid black;
 	width:100%;
 }
+td {
+  border: 1px solid black !important;
+  padding: 1px !important;
+  border-collapse: collapse;
+}
 .green{
 	background-color:green;
 }
